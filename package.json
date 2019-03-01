@@ -1,0 +1,29 @@
+{
+  "name": "@dchowitz/create-nodejs-project",
+  "version": "1.0.0",
+  "description": "Scaffolds a Nodejs project with preconfigured eslint, prettier and standard styling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-nodejs-project": "./init.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchowitz/create-nodejs-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "scaffold",
+    "create",
+    "project"
+  ],
+  "author": "Denny Christochowitz <denny.christochowitz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dchowitz/create-nodejs-project/issues"
+  },
+  "homepage": "https://github.com/dchowitz/create-nodejs-project#readme"
+}
